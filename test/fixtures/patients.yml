@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2018-12-04 00:20:04
+  country: MyString
+  city: MyString
+  establishment: MyString
+
+two:
+  name: MyString
+  dob: 2018-12-04 00:20:04
+  country: MyString
+  city: MyString
+  establishment: MyString
